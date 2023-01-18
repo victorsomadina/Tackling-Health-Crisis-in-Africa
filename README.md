@@ -7,4 +7,4 @@ To find out the death rate by countries, the country's specific population was n
 ### Data Cleaning 
 Check out the power bi file to see how the cleaning was done in power query. I checked for null values, Data structure, Duplicate values, Data types and so on.
 ### Insights and Recommendation. 
-Check out the Tackling Health Crisis in Africa pdf file to see a full dashboard insight and recommendation. 
+Check out the Tackling Health Crisis in Africa pdf file to see a full dashboard for insight and recommendation. 
